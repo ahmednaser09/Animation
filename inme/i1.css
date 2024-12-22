@@ -1,0 +1,16 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: main;
+    animation-duration: 1s;
+  }
+  
+  @keyframes main {
+    from {
+        background-color: rgb(229, 167, 167);}
+
+    to {
+        background-color: rgb(15, 190, 9);}
+    }
+  
